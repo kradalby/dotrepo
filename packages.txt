@@ -1,0 +1,8 @@
+# npm
+
+prettier
+eslint
+eslint-config-prettier
+eslint-plugin-prettier
+stylelint
+stylelint-config-prettier
